@@ -19,5 +19,5 @@ open your terminial copy the "CmakeLists.txt" into the "digiCamControl" director
 
 in this repo go to terminial and copy "digicam-linux-builder.sh" to the repo root. 
 Then run the following command `chmod +x digicam-linux-builder.sh` to make script executable.
-then run the script `bash ./digicam-linux-builder.sh/`
+then run the script as root ` sudo bash ./digicam-linux-builder.sh/`
 

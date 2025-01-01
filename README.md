@@ -7,7 +7,7 @@ This will README will teach you how to use the script
 
 # CmakeLists.txt in repo root
 
-Clone this repo with: `git clone ttps://github.com/VortexViking/digicam-linux-builder`
+Clone this repo with: `git clone https://github.com/VortexViking/digicam-linux-builder`
 
 Use git to clone the original repo or download the source code zip file
 
